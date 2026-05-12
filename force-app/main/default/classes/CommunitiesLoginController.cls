@@ -1,4 +1,4 @@
-// 05/12/2026 Demo CHG 1
+// 05/12/2026 Demo CHG 2
 /**
  * An apex page controller that exposes the site login functionality
  * HID Test
